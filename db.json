@@ -1,0 +1,441 @@
+{
+  "users": {
+    "6813806104": {
+      "id": 6813806104,
+      "name": "𝐈𝐫𝐨𝐧𝐟𝐢𝐬𝐭𝐗",
+      "username": "IronfistX",
+      "join_date": "2026-07-07 10:57",
+      "join_date_short": "2026-07-07",
+      "free_searches": 0,
+      "bonus_searches": 199994,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 9,
+      "last_active": "2026-07-08"
+    },
+    "7702942505": {
+      "id": 7702942505,
+      "name": "ᏞᴇㅤxㅤᏞᴏʀᴅ 亗",
+      "username": "LeXLordD",
+      "join_date": "2026-07-07 10:58",
+      "join_date_short": "2026-07-07",
+      "free_searches": 2,
+      "bonus_searches": 2,
+      "referrals": 1,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 2,
+      "last_active": "2026-07-07"
+    },
+    "5984978276": {
+      "id": 5984978276,
+      "name": "Ꮮꪎ ᴷᶦᶰᵍ᭄やel๏r",
+      "username": "LimitedOwner",
+      "join_date": "2026-07-07 11:01",
+      "join_date_short": "2026-07-07",
+      "free_searches": 2,
+      "bonus_searches": 2,
+      "referrals": 1,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 2,
+      "last_active": "2026-07-07"
+    },
+    "6916114713": {
+      "id": 6916114713,
+      "name": "Hᴇʀᴏ 亗",
+      "username": "Herooo2020",
+      "join_date": "2026-07-07 11:50",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "915484109": {
+      "id": 915484109,
+      "name": ".",
+      "username": "halcyonex",
+      "join_date": "2026-07-07 11:51",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "5573829483": {
+      "id": 5573829483,
+      "name": "Jit",
+      "username": "",
+      "join_date": "2026-07-07 11:51",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "8513548004": {
+      "id": 8513548004,
+      "name": "Nani Nani",
+      "username": "",
+      "join_date": "2026-07-07 11:51",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "6629119191": {
+      "id": 6629119191,
+      "name": "Piyush Tripathi",
+      "username": "Piyushtripathi988",
+      "join_date": "2026-07-07 12:00",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "8123261558": {
+      "id": 8123261558,
+      "name": "Aaliya Anime Club",
+      "username": "bigwin_care",
+      "join_date": "2026-07-07 12:09",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": 5984978276,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "8715179854": {
+      "id": 8715179854,
+      "name": "XericOG",
+      "username": "XericOG",
+      "join_date": "2026-07-07 12:30",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    },
+    "6193974697": {
+      "id": 6193974697,
+      "name": "Manish Mahawar",
+      "username": "Manishjanjaniya",
+      "join_date": "2026-07-07 13:21",
+      "join_date_short": "2026-07-07",
+      "free_searches": 2,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": 7702942505,
+      "is_banned": false,
+      "total_searches": 1,
+      "last_active": "2026-07-07"
+    },
+    "1968858465": {
+      "id": 1968858465,
+      "name": "G",
+      "username": "Axia2077",
+      "join_date": "2026-07-07 17:55",
+      "join_date_short": "2026-07-07",
+      "free_searches": 3,
+      "bonus_searches": 0,
+      "referrals": 0,
+      "referred_by": null,
+      "is_banned": false,
+      "total_searches": 0,
+      "last_active": "2026-07-07"
+    }
+  },
+  "settings": {
+    "start_img": "https://i.ibb.co/zHhfjxBf/file-103.jpg",
+    "welcome_message": "🎬 Welcome to <b>CynemaBot</b>!\n\nYour ultimate movie & anime companion.",
+    "verify_caption": "✅ Please join all channels below to access the bot.",
+    "menu_caption": "🎬 <b>CynemaBot</b> — Choose a category:",
+    "instagram_link": "https://www.instagram.com/animeeditslolz",
+    "website_link": "",
+    "earning_channel_link": "https://t.me/+MPmO6Uvvy3NjYTdl",
+    "referral_bonus": 3,
+    "starting_searches": 3,
+    "vidlink_base": "https://vidlink.pro/movie/",
+    "tvlink_base": "https://vidlink.pro/tv/",
+    "maintenance_mode": false,
+    "force_join_enabled": true,
+    "channels": []
+  },
+  "requests": [
+    {
+      "id": 1,
+      "user_id": 7702942505,
+      "user_name": "ᏞᴇㅤxㅤᏞᴏʀᴅ 亗",
+      "text": "Yhnn",
+      "date": "2026-07-07 11:00",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "user_id": 7702942505,
+      "user_name": "ᏞᴇㅤxㅤᏞᴏʀᴅ 亗",
+      "text": "Pokemon",
+      "date": "2026-07-07 12:49",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "user_id": 6193974697,
+      "user_name": "Manish Mahawar",
+      "text": "Welcome to the Jungle movie",
+      "date": "2026-07-07 13:23",
+      "status": "pending"
+    }
+  ],
+  "stats": {
+    "total_searches": 14,
+    "total_referrals": 2,
+    "total_requests": 3,
+    "daily": {
+      "2026-07-07": {
+        "searches": 13,
+        "users": [
+          "6813806104",
+          "5984978276",
+          "7702942505",
+          "6193974697"
+        ]
+      },
+      "2026-07-08": {
+        "searches": 1,
+        "users": [
+          "6813806104"
+        ]
+      }
+    }
+  },
+  "logs": {
+    "errors": [
+      {
+        "ts": "2026-07-07T10:59:56.196869",
+        "msg": "Invalid variable type: value should be str, int or float, got False of type <class 'bool'>"
+      },
+      {
+        "ts": "2026-07-07T11:00:06.516812",
+        "msg": "Invalid variable type: value should be str, int or float, got False of type <class 'bool'>"
+      },
+      {
+        "ts": "2026-07-07T11:02:08.308533",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:02:14.214177",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:02:21.376423",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:02:27.416695",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:02:36.646721",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:02:50.563736",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:03:10.789595",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:03:36.325692",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:03:41.732265",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:03:48.138970",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:03:56.037464",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:04.116238",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:09.524659",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:15.123636",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:20.912144",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:26.816117",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:33.545981",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:41.839813",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:04:52.959949",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:04.716656",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:10.109659",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:16.013342",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:23.152697",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:32.176704",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:41.401834",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:05:55.285001",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:06:00.693458",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:06:04.051410",
+        "msg": "Invalid variable type: value should be str, int or float, got False of type <class 'bool'>"
+      },
+      {
+        "ts": "2026-07-07T11:06:07.102393",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:06:13.759575",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:06:22.046632",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:06:33.205722",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:06:44.990136",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:07:02.673993",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:07:24.613642",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:07:55.085990",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:08:29.870830",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:09:04.718241",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:09:39.553241",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:10:14.401216",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:10:49.216687",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:11:24.060878",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:11:58.851972",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:12:33.704029",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:13:08.528875",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:13:43.404996",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:14:18.239507",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      },
+      {
+        "ts": "2026-07-07T11:14:53.066552",
+        "msg": "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+      }
+    ],
+    "activity": []
+  }
+}

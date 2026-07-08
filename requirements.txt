@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==21.6
+aiohttp==3.9.5
+aiofiles==23.2.1
+aiofiles==23.2.1
+aiohttp==3.9.5
+python-telegram-bot[job-queue]==21.6
+telegram
